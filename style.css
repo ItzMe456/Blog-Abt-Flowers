@@ -1,0 +1,50 @@
+body{
+  text-align:center;
+  background:#EF5350;
+}
+#h1{
+  color:white;
+  font-size:50px;
+}
+#gif{
+  border-style:solid;
+  border-color:#689F38;
+  border: 1px;
+  border-radius: 80px;
+  padding: 5px;
+  width: 400px;
+}
+#here{
+  font-size:30px;
+}
+#flower{
+  color:blue;
+}
+.lines{
+  font-size:30px;
+}
+.img{
+  border-style:solid;
+  border-color:#689F38
+  border: 1px 
+  border-radius: 80px;
+  padding: 5px;
+  width: 700px;
+}
+#myG{
+  width:40%;
+}
+p{
+  font-size:20px;
+}
+#f{
+  font-size:17px;
+}
+#f1{
+  border-style:solid;
+  border-color:#689F38
+  border: 1px 
+  border-radius: 80px;
+  padding: 5px;
+  width: 600px;
+}
